@@ -59,6 +59,7 @@ function App() {
           <h2>{`Ваш регион - ${data.region}`}</h2>
           <h2>{`Time зона - ${data.timezone}`}</h2>
           <h2>{`IP адрес - ${data.ip}`}</h2>
+          <h2>{`loc адрес - ${data.loc}`}</h2>
           <h2>{`Организация - ${data.org}`}</h2>
           <h2>{`Почтовый Индекс - ${data.postal}`}</h2>
           <h2>{`Страна - ${data.country}`}</h2>
